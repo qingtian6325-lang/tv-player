@@ -79,7 +79,7 @@ function show(html){msg.style.display='flex';msg.innerHTML=html;}
 function hide(){msg.style.display='none';}
 function loading(t){show('<div><div class="spin"></div>'+t+'</div>');}
 function bust(u){return u+(u.includes('?')?'&':'?')+'t='+Date.now();}
-function workerBase(){return (localStorage.getItem('mytv_worker')||'').replace(/\/+$/,'');}
+function workerBase(){return (localStorage.getItem('mytv_worker')||'https://tv-player.qingtian6325.workers.dev').replace(/\/+$/,'');}
 async function loadWorkerChannels(){
   const base=workerBase();
   const stat=document.getElementById('wstat');
