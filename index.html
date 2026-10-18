@@ -171,7 +171,11 @@ const v=document.getElementById('v'),msg=document.getElementById('msg'),
       count=document.getElementById('count');
 let hls=null,cur=-1,retry=0,curGroup='全部';
 const channels=CHANNELS.slice();
-const groups=()=>['全部',...new Set(channels.map(c=>c.group))];
+const GROUP_ORDER=['馬來西亞','新加坡','台灣','大陸','體育','央视卫视','看看新闻','香港'];
+const groups=()=>{
+  const have=[...new Set(channels.map(c=>c.group))];
+  return ['全部',...GROUP_ORDER.filter(g=>have.includes(g)),...have.filter(g=>!GROUP_ORDER.includes(g))];
+};
 
 function show(html){msg.style.display='flex';msg.innerHTML=html;}
 function hide(){msg.style.display='none';}
