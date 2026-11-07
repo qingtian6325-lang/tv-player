@@ -1,0 +1,445 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" group-title="馬來西亞",8TV
+https://tv-player.qingtian6325.workers.dev/my/8tv.m3u8
+#EXTINF:-1 tvg-id="tv3" tvg-name="TV3" group-title="馬來西亞",TV3
+https://tv-player.qingtian6325.workers.dev/my/tv3.m3u8
+#EXTINF:-1 tvg-id="tv9" tvg-name="TV9" group-title="馬來西亞",TV9
+https://tv-player.qingtian6325.workers.dev/my/tv9.m3u8
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" group-title="馬來西亞",TV1
+https://tv-player.qingtian6325.workers.dev/my/tv1.m3u8
+#EXTINF:-1 tvg-id="tv2" tvg-name="TV2" group-title="馬來西亞",TV2
+https://tv-player.qingtian6325.workers.dev/my/tv2.m3u8
+#EXTINF:-1 tvg-id="tv-okey" tvg-name="TV Okey" group-title="馬來西亞",TV Okey
+https://tv-player.qingtian6325.workers.dev/my/tv-okey.m3u8
+#EXTINF:-1 tvg-id="tv-alhijrah" tvg-name="TV AlHijrah" group-title="馬來西亞",TV AlHijrah
+https://tv-player.qingtian6325.workers.dev/my/tv-alhijrah.m3u8
+#EXTINF:-1 tvg-id="berita-rtm" tvg-name="Berita RTM" group-title="馬來西亞",Berita RTM
+https://tv-player.qingtian6325.workers.dev/my/berita-rtm.m3u8
+#EXTINF:-1 tvg-id="sukan-rtm" tvg-name="Sukan RTM" group-title="馬來西亞",Sukan RTM
+https://tv-player.qingtian6325.workers.dev/my/sukan-rtm.m3u8
+#EXTINF:-1 tvg-id="borneo-tv" tvg-name="Borneo TV" group-title="馬來西亞",Borneo TV
+https://tv-player.qingtian6325.workers.dev/my/borneo-tv.m3u8
+#EXTINF:-1 tvg-id="drama-sangat" tvg-name="Drama Sangat" group-title="馬來西亞",Drama Sangat
+https://tv-player.qingtian6325.workers.dev/my/drama-sangat.m3u8
+#EXTINF:-1 tvg-id="Channel-5" tvg-name="Channel 5" group-title="新加坡",Channel 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel-8" tvg-name="Channel 8" group-title="新加坡",Channel 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="Channel-U" tvg-name="Channel U" group-title="新加坡",Channel U
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="新加坡",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNA-Originals" tvg-name="CNA Originals" group-title="新加坡",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="人間衛視" group-title="台灣",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="好消息衛星電視台" group-title="台灣",好消息衛星電視台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="生命電視台" group-title="台灣",生命電視台
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-id="NHK-WORLD" tvg-name="NHK_WORLD" group-title="台灣",NHK_WORLD
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
+#EXTINF:-1 tvg-id="NTD-TV-Asia-Pacific" tvg-name="NTD TV Asia-Pacific" group-title="台灣",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="WXTV" tvg-name="WXTV" group-title="台灣",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="TVBS-Asia" tvg-name="TVBS-Asia" group-title="台灣",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="Supreme-Master-TV" tvg-name="Supreme Master TV" group-title="台灣",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="CGNTV-Chinese" tvg-name="CGNTV Chinese" group-title="台灣",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="Beautiful-Life-TV" tvg-name="Beautiful Life TV" group-title="台灣",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Good-2" tvg-name="Good 2" group-title="台灣",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="Good-TV-Taiwan" tvg-name="Good TV (Taiwan)" group-title="台灣",Good TV (Taiwan)
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" group-title="台灣",纬来体育
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 tvg-id="ABN-China" tvg-name="ABN China" group-title="大陸",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 tvg-id="Baicheng-TV" tvg-name="Baicheng TV" group-title="大陸",Baicheng TV
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" group-title="大陸",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" group-title="大陸",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="Chaozhou-Public-Channel" tvg-name="Chaozhou Public Channel" group-title="大陸",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="Chifeng-Comprehensive-News-Chanel" tvg-name="Chifeng Comprehensive News Chanel" group-title="大陸",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-id="Chuxiong-News-Channel" tvg-name="Chuxiong News Channel" group-title="大陸",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 tvg-id="Dongguan-Comprehensive-News-Channel" tvg-name="Dongguan Comprehensive News Channel" group-title="大陸",Dongguan Comprehensive News Channel
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-id="Guangdong-Satellite-TV" tvg-name="Guangdong Satellite TV" group-title="大陸",Guangdong Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+#EXTINF:-1 tvg-id="Guangxi-Variety-Travel-Channel" tvg-name="Guangxi Variety & Travel Channel" group-title="大陸",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="Guangzhou-TV" tvg-name="Guangzhou TV" group-title="大陸",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="Hebei-TV" tvg-name="Hebei TV" group-title="大陸",Hebei TV
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-id="Hunan-TV" tvg-name="Hunan TV" group-title="大陸",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="Kangba-TV" tvg-name="Kangba TV" group-title="大陸",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="Lanzhou-Comprehensive-News-Channel" tvg-name="Lanzhou Comprehensive News Channel" group-title="大陸",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 tvg-id="Lanzhou-Culture-Tourism-Channel" tvg-name="Lanzhou Culture & Tourism Channel" group-title="大陸",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-id="Siping-TV" tvg-name="Siping TV" group-title="大陸",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="Xinjiang-TV-8" tvg-name="Xinjiang TV 8" group-title="大陸",Xinjiang TV 8
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="Xizang-TV-Chinese" tvg-name="Xizang TV Chinese" group-title="大陸",Xizang TV Chinese
+https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+#EXTINF:-1 tvg-id="Zhejiang-International-Channel" tvg-name="Zhejiang International Channel" group-title="大陸",Zhejiang International Channel
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-id="Ando-TV" tvg-name="Ando TV" group-title="大陸",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 tvg-id="Bread-TV" tvg-name="Bread TV" group-title="大陸",Bread TV
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="Angel-TV-Chinese" tvg-name="Angel TV Chinese" group-title="大陸",Angel TV Chinese
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV+ 2" group-title="大陸",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-9-576i" tvg-name="CCTV-9 (576i)" group-title="大陸",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-id="Harbin-Movie-Channel" tvg-name="Harbin Movie Channel" group-title="大陸",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-id="Dragon-TV-International" tvg-name="Dragon TV International" group-title="大陸",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+#EXTINF:-1 tvg-id="Harbin-Comprehensive-News-Channel" tvg-name="Harbin Comprehensive News Channel" group-title="大陸",Harbin Comprehensive News Channel
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 tvg-id="VoA-TV-China" tvg-name="VoA TV China" group-title="大陸",VoA TV China
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-id="Xinjiang-TV-2" tvg-name="Xinjiang TV 2" group-title="大陸",Xinjiang TV 2
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-id="TV-BRICS-Chinese" tvg-name="TV BRICS Chinese" group-title="大陸",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5+" group-title="大陸",CCTV5+
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" group-title="大陸",江西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="大陸",CCTV8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" group-title="大陸",河南卫视
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN法语" group-title="大陸",CGTN法语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" group-title="大陸",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" group-title="大陸",东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="大陸",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN西语" group-title="大陸",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" group-title="大陸",山西卫视
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" group-title="大陸",西藏卫视
+http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" group-title="大陸",新疆卫视
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN阿语" group-title="大陸",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" group-title="大陸",内蒙古卫视
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" group-title="大陸",青海卫视
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="五星体育" group-title="大陸",五星体育
+http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" group-title="大陸",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" group-title="大陸",山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="熊猫直播" group-title="大陸",熊猫直播
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" group-title="大陸",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="足球频道" group-title="大陸",足球频道
+https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="精品体育" group-title="大陸",精品体育
+https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+#EXTINF:-1 tvg-id="4K" tvg-name="东方卫视4K" group-title="大陸",东方卫视4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安多卫视" group-title="大陸",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="大陸",CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" group-title="大陸",大湾区卫视
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-id="4K" tvg-name="苏州4K" group-title="大陸",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" group-title="大陸",天津卫视
+http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="beIN-Sports-1" tvg-name="beIN Sports 1" group-title="體育",beIN Sports 1
+http://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-3-Turk" tvg-name="beIN Sports 3 Turk" group-title="體育",beIN Sports 3 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-4" tvg-name="beIN Sports 4" group-title="體育",beIN Sports 4
+http://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-4-Turk" tvg-name="beIN Sports 4 Turk" group-title="體育",beIN Sports 4 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-5-Turk" tvg-name="beIN Sports 5 Turk" group-title="體育",beIN Sports 5 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="Eurosport-1-Hungary" tvg-name="Eurosport 1 Hungary" group-title="體育",Eurosport 1 Hungary
+http://88.212.15.17/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-7" tvg-name="beIN Sports 7" group-title="體育",beIN Sports 7
+http://primetv.cc.cd/beinfhd77/index.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-5" tvg-name="beIN Sports 5" group-title="體育",beIN Sports 5
+http://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-2" tvg-name="beIN Sports 2" group-title="體育",beIN Sports 2
+http://primetv.cc.cd/beinfhd22/index.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-1-Turk" tvg-name="beIN Sports 1 Turk" group-title="體育",beIN Sports 1 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-3" tvg-name="beIN Sports 3" group-title="體育",beIN Sports 3
+http://primetv.cc.cd/beinfhd33/index.m3u8
+#EXTINF:-1 tvg-id="beIN-SPORTS-XTRA" tvg-name="beIN SPORTS XTRA" group-title="體育",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-Golf-Tennis" tvg-name="CCTV-Golf & Tennis" group-title="體育",CCTV-Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="ESPN-2-United-States-HD" tvg-name="ESPN 2 (United States) HD" group-title="體育",ESPN 2 (United States) HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Eleven-Sports-3" tvg-name="Eleven Sports 3" group-title="體育",Eleven Sports 3
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="Eleven-Sports-1" tvg-name="Eleven Sports 1" group-title="體育",Eleven Sports 1
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="Eleven-Sports-4" tvg-name="Eleven Sports 4" group-title="體育",Eleven Sports 4
+http://92.114.85.87:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="ESPN-2-Latin-America-Colombia" tvg-name="ESPN 2 Latin America Colombia" group-title="體育",ESPN 2 Latin America Colombia
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Eleven-Sports-2" tvg-name="Eleven Sports 2" group-title="體育",Eleven Sports 2
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="Cricket-Gold" tvg-name="Cricket Gold" group-title="體育",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="CBS-Sports-Golazo-Network" tvg-name="CBS Sports Golazo Network" group-title="體育",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 tvg-id="ESPN-Brazil" tvg-name="ESPN (Brazil)" group-title="體育",ESPN (Brazil)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU-HD" tvg-name="ESPNU HD" group-title="體育",ESPNU HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN8-The-Ocho" tvg-name="ESPN8: The Ocho" group-title="體育",ESPN8: The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN-Latin-America-Colombia" tvg-name="ESPN Latin America Colombia" group-title="體育",ESPN Latin America Colombia
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPN-United-States-HD" tvg-name="ESPN (United States) HD" group-title="體育",ESPN (United States) HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN-Premium-Argentina-HD" tvg-name="ESPN Premium (Argentina) HD" group-title="體育",ESPN Premium (Argentina) HD
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport-1-Polska" tvg-name="Eurosport 1 Polska" group-title="體育",Eurosport 1 Polska
+http://57.128.210.196:8080/264/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport-2-Hungary" tvg-name="Eurosport 2 Hungary" group-title="體育",Eurosport 2 Hungary
+http://88.212.15.17/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport-4-Polska" tvg-name="Eurosport 4 Polska" group-title="體育",Eurosport 4 Polska
+http://57.128.231.171:8080/291/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport-2-Polska" tvg-name="Eurosport 2 Polska" group-title="體育",Eurosport 2 Polska
+http://57.128.210.196:8080/263/index.m3u8
+#EXTINF:-1 tvg-id="Extreme-Sports-Channel-Polska" tvg-name="Extreme Sports Channel Polska" group-title="體育",Extreme Sports Channel Polska
+http://57.128.231.171:8080/262/index.m3u8
+#EXTINF:-1 tvg-id="FightBox-HD" tvg-name="FightBox HD" group-title="體育",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" group-title="體育",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="F1-Channel" tvg-name="F1 Channel" group-title="體育",F1 Channel
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FloRacing" tvg-name="FloRacing" group-title="體育",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Formula-1-AntenaPlay" tvg-name="Formula 1 AntenaPlay" group-title="體育",Formula 1 AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+#EXTINF:-1 tvg-id="Golf" tvg-name="Golf +" group-title="體育",Golf +
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 tvg-id="FightBox-Poland" tvg-name="FightBox Poland" group-title="體育",FightBox Poland
+http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Fox-Sports" tvg-name="Fox Sports" group-title="體育",Fox Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="MLB-Strike-Zone" tvg-name="MLB Strike Zone" group-title="體育",MLB Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" group-title="體育",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" group-title="體育",NFL Network
+http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="Fox-Sports-News" tvg-name="Fox Sports News" group-title="體育",Fox Sports News
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 tvg-id="Golf-Zone" tvg-name="Golf Zone" group-title="體育",Golf Zone
+http://57.128.231.171:8080/248/index.m3u8
+#EXTINF:-1 tvg-id="MMA-TV-com" tvg-name="MMA-TV.com" group-title="體育",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL-AntenaPlay" tvg-name="NHL AntenaPlay" group-title="體育",NHL AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+#EXTINF:-1 tvg-id="Persiana-Fight" tvg-name="Persiana Fight" group-title="體育",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NBC-Sports-NOW" tvg-name="NBC Sports NOW" group-title="體育",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="Real-Madrid-TV-English" tvg-name="Real Madrid TV English" group-title="體育",Real Madrid TV English
+http://88.212.15.17/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" group-title="體育",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Polsat-Sport-Fight" tvg-name="Polsat Sport Fight" group-title="體育",Polsat Sport Fight
+http://57.128.210.196:8080/194/index.m3u8
+#EXTINF:-1 tvg-id="Real-Madrid-TV" tvg-name="Real Madrid TV" group-title="體育",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" group-title="體育",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky-Racing-1" tvg-name="Sky Racing 1" group-title="體育",Sky Racing 1
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman-Champions-League" tvg-name="Strongman Champions League" group-title="體育",Strongman Champions League
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="V-Sport-Golf" tvg-name="V Sport Golf" group-title="體育",V Sport Golf
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" group-title="體育",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" group-title="體育",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN4" group-title="體育",TSN4
+http://109.104.153.220:80/TSN-4/index.m3u8
+#EXTINF:-1 tvg-id="TSN-The-Ocho" tvg-name="TSN The Ocho" group-title="體育",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="Star-Sports-2-Telugu-HD" tvg-name="Star Sports 2 Telugu HD" group-title="體育",Star Sports 2 Telugu HD
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="央视卫视",CCTV-1
+https://tv-player.qingtian6325.workers.dev/cctv/cctv1.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="央视卫视",CCTV-2
+https://tv-player.qingtian6325.workers.dev/cctv/cctv2.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3" group-title="央视卫视",CCTV-3
+https://tv-player.qingtian6325.workers.dev/cctv/cctv3.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="央视卫视",CCTV-4
+https://tv-player.qingtian6325.workers.dev/cctv/cctv4.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5" group-title="央视卫视",CCTV-5
+https://tv-player.qingtian6325.workers.dev/cctv/cctv5.m3u8
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV-5+" group-title="央视卫视",CCTV-5+
+https://tv-player.qingtian6325.workers.dev/cctv/cctv5p.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="央视卫视",CCTV-6
+https://tv-player.qingtian6325.workers.dev/cctv/cctv6.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="央视卫视",CCTV-7
+https://tv-player.qingtian6325.workers.dev/cctv/cctv7.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV-8" group-title="央视卫视",CCTV-8
+https://tv-player.qingtian6325.workers.dev/cctv/cctv8.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV-9" group-title="央视卫视",CCTV-9
+https://tv-player.qingtian6325.workers.dev/cctv/cctv9.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV-10" group-title="央视卫视",CCTV-10
+https://tv-player.qingtian6325.workers.dev/cctv/cctv10.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11" group-title="央视卫视",CCTV-11
+https://tv-player.qingtian6325.workers.dev/cctv/cctv11.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12" group-title="央视卫视",CCTV-12
+https://tv-player.qingtian6325.workers.dev/cctv/cctv12.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="央视卫视",CCTV-13
+https://tv-player.qingtian6325.workers.dev/cctv/cctv13.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" group-title="央视卫视",CCTV-14
+https://tv-player.qingtian6325.workers.dev/cctv/cctv14.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15" group-title="央视卫视",CCTV-15
+https://tv-player.qingtian6325.workers.dev/cctv/cctv15.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV-16" group-title="央视卫视",CCTV-16
+https://tv-player.qingtian6325.workers.dev/cctv/cctv16.m3u8
+#EXTINF:-1 tvg-id="cctv164k" tvg-name="CCTV-16 4K" group-title="央视卫视",CCTV-16 4K
+https://tv-player.qingtian6325.workers.dev/cctv/cctv164k.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV-17" group-title="央视卫视",CCTV-17
+https://tv-player.qingtian6325.workers.dev/cctv/cctv17.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV-4K" group-title="央视卫视",CCTV-4K
+https://tv-player.qingtian6325.workers.dev/cctv/cctv4k.m3u8
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="CCTV-8K" group-title="央视卫视",CCTV-8K
+https://tv-player.qingtian6325.workers.dev/cctv/cctv8k.m3u8
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="央视卫视",CGTN
+https://tv-player.qingtian6325.workers.dev/cctv/cgtn.m3u8
+#EXTINF:-1 tvg-id="cgtnfr" tvg-name="CGTN法语" group-title="央视卫视",CGTN法语
+https://tv-player.qingtian6325.workers.dev/cctv/cgtnfr.m3u8
+#EXTINF:-1 tvg-id="cgtnru" tvg-name="CGTN俄语" group-title="央视卫视",CGTN俄语
+https://tv-player.qingtian6325.workers.dev/cctv/cgtnru.m3u8
+#EXTINF:-1 tvg-id="cgtnar" tvg-name="CGTN阿拉伯语" group-title="央视卫视",CGTN阿拉伯语
+https://tv-player.qingtian6325.workers.dev/cctv/cgtnar.m3u8
+#EXTINF:-1 tvg-id="cgtnes" tvg-name="CGTN西班牙语" group-title="央视卫视",CGTN西班牙语
+https://tv-player.qingtian6325.workers.dev/cctv/cgtnes.m3u8
+#EXTINF:-1 tvg-id="cgtndoc" tvg-name="CGTN 纪录" group-title="央视卫视",CGTN 纪录
+https://tv-player.qingtian6325.workers.dev/cctv/cgtndoc.m3u8
+#EXTINF:-1 tvg-id="cctvfyjc" tvg-name="CCTV 风云剧场" group-title="央视卫视",CCTV 风云剧场
+https://tv-player.qingtian6325.workers.dev/cctv/cctvfyjc.m3u8
+#EXTINF:-1 tvg-id="cctvdyjc" tvg-name="CCTV 第一剧场" group-title="央视卫视",CCTV 第一剧场
+https://tv-player.qingtian6325.workers.dev/cctv/cctvdyjc.m3u8
+#EXTINF:-1 tvg-id="cctvhjjc" tvg-name="CCTV 怀旧剧场" group-title="央视卫视",CCTV 怀旧剧场
+https://tv-player.qingtian6325.workers.dev/cctv/cctvhjjc.m3u8
+#EXTINF:-1 tvg-id="bjws" tvg-name="北京卫视" group-title="央视卫视",北京卫视
+https://tv-player.qingtian6325.workers.dev/cctv/bjws.m3u8
+#EXTINF:-1 tvg-id="jsws" tvg-name="江苏卫视" group-title="央视卫视",江苏卫视
+https://tv-player.qingtian6325.workers.dev/cctv/jsws.m3u8
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视" group-title="央视卫视",东方卫视
+https://tv-player.qingtian6325.workers.dev/cctv/dfws.m3u8
+#EXTINF:-1 tvg-id="zjws" tvg-name="浙江卫视" group-title="央视卫视",浙江卫视
+https://tv-player.qingtian6325.workers.dev/cctv/zjws.m3u8
+#EXTINF:-1 tvg-id="hnws" tvg-name="湖南卫视" group-title="央视卫视",湖南卫视
+https://tv-player.qingtian6325.workers.dev/cctv/hnws.m3u8
+#EXTINF:-1 tvg-id="hbws" tvg-name="湖北卫视" group-title="央视卫视",湖北卫视
+https://tv-player.qingtian6325.workers.dev/cctv/hbws.m3u8
+#EXTINF:-1 tvg-id="gdws" tvg-name="广东卫视" group-title="央视卫视",广东卫视
+https://tv-player.qingtian6325.workers.dev/cctv/gdws.m3u8
+#EXTINF:-1 tvg-id="gxws" tvg-name="广西卫视" group-title="央视卫视",广西卫视
+https://tv-player.qingtian6325.workers.dev/cctv/gxws.m3u8
+#EXTINF:-1 tvg-id="hljws" tvg-name="黑龙江卫视" group-title="央视卫视",黑龙江卫视
+https://tv-player.qingtian6325.workers.dev/cctv/hljws.m3u8
+#EXTINF:-1 tvg-id="hainanws" tvg-name="海南卫视" group-title="央视卫视",海南卫视
+https://tv-player.qingtian6325.workers.dev/cctv/hainanws.m3u8
+#EXTINF:-1 tvg-id="cqws" tvg-name="重庆卫视" group-title="央视卫视",重庆卫视
+https://tv-player.qingtian6325.workers.dev/cctv/cqws.m3u8
+#EXTINF:-1 tvg-id="szws" tvg-name="深圳卫视" group-title="央视卫视",深圳卫视
+https://tv-player.qingtian6325.workers.dev/cctv/szws.m3u8
+#EXTINF:-1 tvg-id="scws" tvg-name="四川卫视" group-title="央视卫视",四川卫视
+https://tv-player.qingtian6325.workers.dev/cctv/scws.m3u8
+#EXTINF:-1 tvg-id="henanws" tvg-name="河南卫视" group-title="央视卫视",河南卫视
+https://tv-player.qingtian6325.workers.dev/cctv/henanws.m3u8
+#EXTINF:-1 tvg-id="dnws" tvg-name="东南卫视" group-title="央视卫视",东南卫视
+https://tv-player.qingtian6325.workers.dev/cctv/dnws.m3u8
+#EXTINF:-1 tvg-id="gzws" tvg-name="贵州卫视" group-title="央视卫视",贵州卫视
+https://tv-player.qingtian6325.workers.dev/cctv/gzws.m3u8
+#EXTINF:-1 tvg-id="jxws" tvg-name="江西卫视" group-title="央视卫视",江西卫视
+https://tv-player.qingtian6325.workers.dev/cctv/jxws.m3u8
+#EXTINF:-1 tvg-id="lnws" tvg-name="辽宁卫视" group-title="央视卫视",辽宁卫视
+https://tv-player.qingtian6325.workers.dev/cctv/lnws.m3u8
+#EXTINF:-1 tvg-id="ahws" tvg-name="安徽卫视" group-title="央视卫视",安徽卫视
+https://tv-player.qingtian6325.workers.dev/cctv/ahws.m3u8
+#EXTINF:-1 tvg-id="hebws" tvg-name="河北卫视" group-title="央视卫视",河北卫视
+https://tv-player.qingtian6325.workers.dev/cctv/hebws.m3u8
+#EXTINF:-1 tvg-id="sdws" tvg-name="山东卫视" group-title="央视卫视",山东卫视
+https://tv-player.qingtian6325.workers.dev/cctv/sdws.m3u8
+#EXTINF:-1 tvg-id="tjws" tvg-name="天津卫视" group-title="央视卫视",天津卫视
+https://tv-player.qingtian6325.workers.dev/cctv/tjws.m3u8
+#EXTINF:-1 tvg-id="jlws" tvg-name="吉林卫视" group-title="央视卫视",吉林卫视
+https://tv-player.qingtian6325.workers.dev/cctv/jlws.m3u8
+#EXTINF:-1 tvg-id="saxws" tvg-name="陕西卫视" group-title="央视卫视",陕西卫视
+https://tv-player.qingtian6325.workers.dev/cctv/saxws.m3u8
+#EXTINF:-1 tvg-id="nxws" tvg-name="宁夏卫视" group-title="央视卫视",宁夏卫视
+https://tv-player.qingtian6325.workers.dev/cctv/nxws.m3u8
+#EXTINF:-1 tvg-id="nmgws" tvg-name="内蒙古卫视" group-title="央视卫视",内蒙古卫视
+https://tv-player.qingtian6325.workers.dev/cctv/nmgws.m3u8
+#EXTINF:-1 tvg-id="ynws" tvg-name="云南卫视" group-title="央视卫视",云南卫视
+https://tv-player.qingtian6325.workers.dev/cctv/ynws.m3u8
+#EXTINF:-1 tvg-id="shanxiws" tvg-name="山西卫视" group-title="央视卫视",山西卫视
+https://tv-player.qingtian6325.workers.dev/cctv/shanxiws.m3u8
+#EXTINF:-1 tvg-id="qhws" tvg-name="青海卫视" group-title="央视卫视",青海卫视
+https://tv-player.qingtian6325.workers.dev/cctv/qhws.m3u8
+#EXTINF:-1 tvg-id="xizangws" tvg-name="西藏卫视" group-title="央视卫视",西藏卫视
+https://tv-player.qingtian6325.workers.dev/cctv/xizangws.m3u8
+#EXTINF:-1 tvg-id="xjws" tvg-name="新疆卫视" group-title="央视卫视",新疆卫视
+https://tv-player.qingtian6325.workers.dev/cctv/xjws.m3u8
+#EXTINF:-1 tvg-id="cetv1" tvg-name="CETV-1" group-title="央视卫视",CETV-1
+https://tv-player.qingtian6325.workers.dev/cctv/cetv1.m3u8
+#EXTINF:-1 tvg-id="guoxue" tvg-name="国学频道" group-title="央视卫视",国学频道
+https://tv-player.qingtian6325.workers.dev/cctv/guoxue.m3u8
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视" group-title="看看新闻",东方卫视
+https://tv-player.qingtian6325.workers.dev/kk/dfws.m3u8
+#EXTINF:-1 tvg-id="shxwzh" tvg-name="新闻综合" group-title="看看新闻",新闻综合
+https://tv-player.qingtian6325.workers.dev/kk/shxwzh.m3u8
+#EXTINF:-1 tvg-id="shds" tvg-name="都市频道" group-title="看看新闻",都市频道
+https://tv-player.qingtian6325.workers.dev/kk/shds.m3u8
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" group-title="看看新闻",第一财经
+https://tv-player.qingtian6325.workers.dev/kk/dycj.m3u8
+#EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" group-title="看看新闻",哈哈炫动
+https://tv-player.qingtian6325.workers.dev/kk/hhxd.m3u8
+#EXTINF:-1 tvg-id="wxty" tvg-name="五星体育" group-title="看看新闻",五星体育
+https://tv-player.qingtian6325.workers.dev/kk/wxty.m3u8
+#EXTINF:-1 tvg-id="mdy" tvg-name="魔都眼" group-title="看看新闻",魔都眼
+https://tv-player.qingtian6325.workers.dev/kk/mdy.m3u8
+#EXTINF:-1 tvg-id="jsrw" tvg-name="新纪实" group-title="看看新闻",新纪实
+https://tv-player.qingtian6325.workers.dev/kk/jsrw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳門衛視" group-title="香港",澳門衛視
+http://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w1228316132.m3u8
