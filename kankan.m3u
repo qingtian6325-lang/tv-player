@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视" group-title="看看新闻",东方卫视
+https://tv-player.qingtian6325.workers.dev/kk/dfws.m3u8
+#EXTINF:-1 tvg-id="shxwzh" tvg-name="新闻综合" group-title="看看新闻",新闻综合
+https://tv-player.qingtian6325.workers.dev/kk/shxwzh.m3u8
+#EXTINF:-1 tvg-id="shds" tvg-name="都市频道" group-title="看看新闻",都市频道
+https://tv-player.qingtian6325.workers.dev/kk/shds.m3u8
+#EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" group-title="看看新闻",第一财经
+https://tv-player.qingtian6325.workers.dev/kk/dycj.m3u8
+#EXTINF:-1 tvg-id="hhxd" tvg-name="哈哈炫动" group-title="看看新闻",哈哈炫动
+https://tv-player.qingtian6325.workers.dev/kk/hhxd.m3u8
+#EXTINF:-1 tvg-id="wxty" tvg-name="五星体育" group-title="看看新闻",五星体育
+https://tv-player.qingtian6325.workers.dev/kk/wxty.m3u8
+#EXTINF:-1 tvg-id="mdy" tvg-name="魔都眼" group-title="看看新闻",魔都眼
+https://tv-player.qingtian6325.workers.dev/kk/mdy.m3u8
+#EXTINF:-1 tvg-id="jsrw" tvg-name="新纪实" group-title="看看新闻",新纪实
+https://tv-player.qingtian6325.workers.dev/kk/jsrw.m3u8
