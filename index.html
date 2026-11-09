@@ -36,6 +36,7 @@ header h1 span{color:var(--acc)}
   #player{max-width:860px;margin:0 auto;}
   #searchRow{max-width:860px;margin:0 auto;width:100%;}
   #chips{max-width:860px;margin:0 auto;width:100%;}
+  #srcs{max-width:860px;margin:0 auto;width:100%;}
   #count{max-width:860px;margin:0 auto;width:100%;}
   #sheet{align-items:center;}
   #panel{border-radius:20px;}
@@ -76,6 +77,18 @@ video{width:100%;height:100%;background:#000;display:block}
   scrollbar-width:none;
 }
 #chips::-webkit-scrollbar{display:none}
+/* ---- TG 新源 ---- */
+#srcs{
+  flex:none;display:flex;gap:8px;overflow-x:auto;padding:10px 12px 0;
+  scrollbar-width:none;align-items:center;
+}
+#srcs::-webkit-scrollbar{display:none}
+#srcs .lab{flex:none;color:var(--dim);font-size:13px}
+.srcbtn{
+  flex:none;background:#12291a;border:1px solid var(--acc-d);color:var(--acc);
+  border-radius:20px;padding:8px 14px;font-size:13px;cursor:pointer;white-space:nowrap;
+}
+.srcbtn.done{background:var(--card);color:var(--dim);border-color:var(--line)}
 .chip{
   flex:none;background:var(--card);border:1px solid var(--line);color:var(--dim);
   border-radius:20px;padding:9px 16px;font-size:14px;cursor:pointer;white-space:nowrap;
@@ -144,6 +157,7 @@ video{width:100%;height:100%;background:#000;display:block}
 </div>
 
 <div id="searchRow"><input id="search" placeholder="🔍 搜索频道…" autocomplete="off"></div>
+<div id="srcs"></div>
 <div id="chips"></div>
 <div id="count"></div>
 <div id="grid"></div>
@@ -215,14 +229,15 @@ function renderGrid(){
   const q=search.value.trim().toLowerCase();
   const list=channels.map((c,i)=>({...c,idx:i}))
     .filter(c=>(curGroup==='全部'||c.group===curGroup))
-    .filter(c=>!q||c.name.toLowerCase().includes(q)||c.group.includes(q));
+    .filter(c=>!q||c.name.toLowerCase().includes(q)||c.group.includes(q)||(c.sub||'').toLowerCase().includes(q));
   grid.innerHTML='';
-  count.textContent=list.length+' 个频道';
+  const MAXR=600,shown=list.slice(0,MAXR);
+  count.textContent=list.length>MAXR?('共 '+list.length+' 个频道，只显示前 '+MAXR+' 个，用搜索找台'):(list.length+' 个频道');
   if(!list.length){grid.innerHTML='<div id="empty">没找到，换个关键词试试</div>';return;}
-  list.forEach(c=>{
+  shown.forEach(c=>{
     const d=document.createElement('div');
     d.className='card'+(cur===c.idx?' on':'');
-    d.innerHTML='<div class="t">'+escapeHtml(c.name)+'</div><div class="g">'+escapeHtml(c.group)+'</div>';
+    d.innerHTML='<div class="t">'+escapeHtml(c.name)+'</div><div class="g">'+escapeHtml(c.sub||c.group)+'</div>';
     d.onclick=()=>play(c.idx);
     grid.appendChild(d);
   });
@@ -281,6 +296,47 @@ document.getElementById('wsave').onclick=()=>{
   if(val)localStorage.setItem('mytv_worker',val);else localStorage.removeItem('mytv_worker');
   location.reload();
 };
+
+/* TG 新源：点按钮经 Worker 拉订阅解析成本地频道，播放走 /hls 代理 */
+const TG_SUBS=[['iptv888','IPTV888'],['kuliao','裤佬'],['yang','YanG'],['liveyang','平台集合'],['huya','Mursor虎牙'],['douyu','Mursor斗鱼'],['yylunbo','MursorYY']];
+const loadedSubs={};
+function renderSrcs(){
+  const box=document.getElementById('srcs');
+  box.innerHTML='<span class="lab">TG新源</span>';
+  TG_SUBS.forEach(([key,label])=>{
+    const b=document.createElement('button');
+    b.className='srcbtn'+(loadedSubs[key]?' done':'');
+    b.textContent=loadedSubs[key]?(label+' '+loadedSubs[key]):label;
+    b.onclick=()=>loadSub(key,label,b);
+    box.appendChild(b);
+  });
+}
+async function loadSub(key,label,btn){
+  if(loadedSubs[key]){curGroup='TG·'+label;renderAll();return;}
+  btn.textContent=label+' 加载中…';
+  try{
+    const base=workerBase();
+    const r=await fetch(base+'/sub/'+key);
+    if(!r.ok)throw new Error('http '+r.status);
+    const txt=await r.text();
+    let n=0,pending=null;
+    for(const line of txt.split(/\r?\n/)){
+      if(line.startsWith('#EXTINF'))pending=line;
+      else if(line.trim()&&pending){
+        const name=(pending.split(',').pop()||'').trim()||'未命名';
+        const gt=(pending.match(/group-title="([^"]*)"/)||[])[1]||'';
+        const u=line.trim();
+        if(/^https?:\/\//i.test(u)){channels.push({name,group:'TG·'+label,sub:gt,play:base+'/hls?u='+encodeURIComponent(u)});n++;}
+        pending=null;
+      }
+    }
+    if(!n)throw new Error('空列表');
+    loadedSubs[key]=n;
+    curGroup='TG·'+label;
+    renderSrcs();renderAll();
+  }catch(e){btn.textContent=label+' ❌点我重试';}
+}
+renderSrcs();
 
 renderAll();
 loadWorkerChannels();
